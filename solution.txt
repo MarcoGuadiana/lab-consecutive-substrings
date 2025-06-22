@@ -1,2 +1,8 @@
-Please add your pseudocode to this file
-And a written explanation of your solution
+1. Create new array
+2. Structure the loop to take a strong and find the consecutive substrings
+3. The first loop picks the start and the other to pick the end position.
+4. The string is extracted and added to the list.
+5. The function then returns the list. 
+
+
+O(n^2) Because the list grows baed on the both loops running
